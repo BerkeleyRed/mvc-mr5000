@@ -1,10 +1,13 @@
 # mvc-mr5000
 [![GitHub license](https://img.shields.io/github/license/SeshanPillay25/mvc-mr5000.svg)](https://github.com/SeshanPillay25/mvc-mr5000/blob/master/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/SeshanPillay25/mvc-mr5000.svg)](https://github.com/SeshanPillay25/mvc-mr5000/issues)
+
 Movie rental site using ASP.NET MVC
 
-EF 6.1.3
-Bootstrap 3.0.0
-.NET Framework 4.5.1
+-EF 6.1.3
+
+-Bootstrap 3.0.0
+
+-.NET Framework 4.5.1
 
 ![1](/screens/1.png "1")
 
